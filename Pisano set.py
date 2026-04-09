@@ -1,3 +1,4 @@
+# Pisano set
 # k-Pisano-Legendre-primes-relative-to-(a,b)
 # See https://doi.org/10.62072/acm.2026.09011
 from sympy import legendre_symbol, primerange
